@@ -1,0 +1,4 @@
+Quantos pacientes foram internados ou readmitidos ao longo do tempo?
+Quanto tempo os pacientes ficam internados, em média?
+Quanto é o custo médio por visita?
+Quantos procedimentos são cobertos pelo seguro?
