@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Station	City	Country	Latitude	Longitude
 Liverpool Lime Street	Liverpool	Reino Unido	53.4084	-2.9916
 York	York	Reino Unido	53.9591	-1.0815
@@ -30,4 +31,38 @@ Edinburgh Waverley	Edinburgh	Reino Unido	55.9521	-3.1897
 Coventry	Coventry	Reino Unido	52.4068	-1.5197
 Wakefield	Wakefield	Reino Unido	53.6833	-1.5055
 Cardiff Central	Cardiff	Reino Unido	51.4791	-3.1791
+=======
+Station	City	Country	Latitude	Longitude
+Liverpool Lime Street	Liverpool	Reino Unido	53.4084	-2.9916
+York	York	Reino Unido	53.9591	-1.0815
+Manchester Piccadilly	Manchester	Reino Unido	53.4794	-2.2453
+Reading	Reading	Reino Unido	51.4543	-0.9781
+London Euston	London	Reino Unido	51.5285	-0.1336
+Oxford	Oxford	Reino Unido	51.7520	-1.2577
+Durham	Durham	Reino Unido	54.7753	-1.5849
+London St Pancras	London	Reino Unido	51.5313	-0.1269
+Birmingham New Street	Birmingham	Reino Unido	52.4776	-1.8941
+London Paddington	London	Reino Unido	51.5167	-0.1764
+Bristol Temple Meads	Bristol	Reino Unido	51.4491	-2.5800
+Tamworth	Tamworth	Reino Unido	52.6336	-1.6915
+London Waterloo	London	Reino Unido	51.5033	-0.1136
+Sheffield	Sheffield	Reino Unido	53.3811	-1.4701
+Wolverhampton	Wolverhampton	Reino Unido	52.5862	-2.1287
+Leeds	Leeds	Reino Unido	53.8008	-1.5491
+Stafford	Stafford	Reino Unido	52.8067	-2.1165
+Doncaster	Doncaster	Reino Unido	53.5228	-1.1316
+Swindon	Swindon	Reino Unido	51.5686	-1.7724
+Nottingham	Nottingham	Reino Unido	52.9548	-1.1581
+Peterborough	Peterborough	Reino Unido	52.5720	-0.2417
+Edinburgh	Edinburgh	Reino Unido	55.9533	-3.1883
+Crewe	Crewe	Reino Unido	53.0889	-2.4350
+London Kings Cross	London	Reino Unido	51.5326	-0.1242
+Leicester	Leicester	Reino Unido	52.6369	-1.1398
+Nuneaton	Nuneaton	Reino Unido	52.5234	-1.4659
+Didcot	Didcot	Reino Unido	51.6080	-1.2434
+Edinburgh Waverley	Edinburgh	Reino Unido	55.9521	-3.1897
+Coventry	Coventry	Reino Unido	52.4068	-1.5197
+Wakefield	Wakefield	Reino Unido	53.6833	-1.5055
+Cardiff Central	Cardiff	Reino Unido	51.4791	-3.1791
+>>>>>>> c76801ffe73e0dfe05671b2b0be8e2864b025cbf
 Warrington	Warrington	Reino Unido	53.3900	-2.5977

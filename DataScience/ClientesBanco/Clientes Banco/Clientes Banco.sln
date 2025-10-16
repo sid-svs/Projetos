@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -20,3 +21,27 @@ Global
 		SolutionGuid = {141F6955-FEFF-4AE7-900A-3BFC4A3F2C12}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Clientes Banco", "Clientes Banco.dtproj", "{9E07DD7C-AE54-4870-8FB7-9C568AADCB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E07DD7C-AE54-4870-8FB7-9C568AADCB53}.Development|Default.ActiveCfg = Development
+		{9E07DD7C-AE54-4870-8FB7-9C568AADCB53}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {141F6955-FEFF-4AE7-900A-3BFC4A3F2C12}
+	EndGlobalSection
+EndGlobal
+>>>>>>> c76801ffe73e0dfe05671b2b0be8e2864b025cbf
