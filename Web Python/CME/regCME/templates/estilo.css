@@ -1,0 +1,83 @@
+
+
+      * {
+        margin: 0;
+        padding: 0;
+      }
+
+      #SN_Medico{
+        color: #09955d;
+      }
+      label {
+        cursor: pointer;
+        display: block;
+      }
+      .textoVerde {
+        color: #09955d;
+      }
+
+      #subtitulo {
+        color: blue;
+      }
+
+      #cabecalho {
+        display: flex;
+        justify-content: space-between;
+        font-size: 32px;
+        background-color: white;
+        align-items: center;
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Arial',
+          'Lucida Sans', Arial, sans-serif;
+        border: 0.1px solid lightgray;
+        border-radius: 10px;
+      }
+
+      #logo {
+        justify-content: center;
+
+        padding: 10px;
+        width: 150px;
+        height: 60px;
+      }
+      img {
+        width: 100px;
+      }
+
+      body {
+        background-color: aliceblue;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Arial',
+          'Lucida Sans', Arial, sans-serif;
+      }
+
+      nav{
+         display: block;
+         color: white;
+      }  
+
+      nav ul {
+        height: 50 px;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        
+        padding: 20px;
+        list-style: none;
+        background-color: #09955d;
+        margin-left: 10px;
+        border-radius: 10px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        
+
+      }
+
+      nav a:hover{
+        color: black;
+        background-color: rgba(228, 222, 222, 0.178);
+        
+      }
+
+      nav ul li a {
+       color: white;
+       text-decoration: none;
+     }   

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<!-- Informa que é um documento  do html -->
+
+<html lang="pt-BR">
+  <!-- tipo de linguagem -->
+  <head>
+    <meta charset="UTF-8" />
+    <!-- codificação dos caracteres do documento -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CME Digital</title>
+    <link rel="stylesheet" type="text/css" href="estilo.css" />
+    <script language="javascript" src="scripts.js"></script>
+    <script language="javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  </head>
+
+  <body>
+    <header>
+      <h1 id="cabecalho" class="textoVerde">
+        <!-- Atributo ID é usado para identificar a tag de forma especifica
+        a classe pode ser usada mais de uma vez em vários atributos -->
+
+        <img id="logo" src="/CME/regCME/images/Logo.png" />
+        <p>Cadastrar materiais</p>
+        <img src="/CME/regCME/images/IconeCME.png" />
+      </h1>
+    </header>
+
+    <form action="#" method="post" target="_blank" autocomplete="off">
+      <fieldset>
+        <legend>
+          Dados do material
+        </legend>
+        <p>
+          Nome do material <input id="nomeMat" name="nomeMat" type="text"
+            placeholder="Nome do material" > </p>
+
+          <label> Material de médico/terceiros? <input id="SN_Medico"
+              name="SN_Medico" type="checkbox" value="sim">
+          </label>
+        </p>
+
+        <label>
+         <p>
+          Quantidade de peças <input id="qtd_pecas" name="qtd_pecas" type="number" min="1"
+          max="5" value="1"
+            > </p>
+        </label>
+
+         <label> Quantidade de caixas <input id="qtd_kits"
+              name="qtd_caixas" type="number" value="1" min="1" onchange="calculaPecasTotais()">
+          </label>
+        </p>
+
+        <h1 id="resultado"></h1>        
+
+        <br>
+
+        <p>
+          <label> Ativar <input id="Ativo"
+              name="Ativo" type="radio" value="ativar" >
+          </label>
+           <label> Inativar <input id="inativo"
+              name="Ativo" type="radio" value="inativar" checked>
+          </label>
+        </p>
+
+      <br>
+
+        <p>
+          <label> Data do cadastro <input id="dataCadastro"
+              name="data" type="datetime-local" value="2025-11-01 20:00">
+          </label>
+         
+        <p>
+         
+          <p>
+          <label> Hora do registro <input id="horaCadastro"
+              name="hora" type="time" value="20:00">
+          </label>
+         
+        <p>
+        
+         
+         
+         
+       
+       
+          <label>
+          <button  id="Limpar" name="Limpar" type="reset">Limpar
+          </label>
+        </p>
+
+      </fieldset>
+    </section>
+
+  </form>
+
+   <label> <button id="Enviar" name="Enviar">Enviar </button>
+          </label>
